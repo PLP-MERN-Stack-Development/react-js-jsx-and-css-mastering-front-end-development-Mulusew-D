@@ -16,35 +16,8 @@
 ## Notes
 - Theme is persisted in `localStorage` and toggles `dark` class on `<html>`.
 - `useLocalStorage` hook used for tasks persistence.
-## Project Structure
-week3-react-tailwind/
-├─ index.html
-├─ package.json
-├─ postcss.config.cjs
-├─ tailwind.config.cjs
-├─ src/
-│  ├─ main.jsx
-│  ├─ index.css
-│  ├─ App.jsx
-│  ├─ routes/
-│  │   ├─ Home.jsx
-│  │   └─ Posts.jsx
-│  ├─ components/
-│  │   ├─ Navbar.jsx
-│  │   ├─ Footer.jsx
-│  │   ├─ Layout.jsx
-│  │   ├─ Button.jsx
-│  │   ├─ Card.jsx
-│  ├─ features/
-│  │   ├─ TaskManager.jsx
-│  │   ├─ FetchPosts.jsx
-│  ├─ hooks/
-│  │   ├─ useLocalStorage.js
-│  ├─ context/
-│  │   └─ ThemeContext.jsx
-└─ README.md
 
-## Live Demo
+## Live Demo URL
 [![Netlify Status](https://img.shields.io/badge/Netlify-Deployed-brightgreen)](https://react-jsx-css-mastering-project.netlify.app/)
 
 ## Image of the Application
