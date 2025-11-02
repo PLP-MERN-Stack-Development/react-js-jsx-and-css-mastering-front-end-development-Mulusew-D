@@ -1,0 +1,18 @@
+# Week 3: React + JSX + Tailwind Demo
+
+## Run
+1. `npm install`
+2. `npm run dev`
+3. Open `http://localhost:5173`
+
+## Features
+- Vite + React
+- Tailwind CSS (dark mode using `class` strategy)
+- Reusable components: Button, Card, Navbar, Footer, Layout
+- Task Manager: add, complete, delete, filter tasks (persisted via `useLocalStorage`)
+- API Integration: fetch posts from JSONPlaceholder with Load More and client-side search
+- Responsive design and subtle animations
+
+## Notes
+- Theme is persisted in `localStorage` and toggles `dark` class on `<html>`.
+- `useLocalStorage` hook used for tasks persistence.
