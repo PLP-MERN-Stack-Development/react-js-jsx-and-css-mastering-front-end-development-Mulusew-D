@@ -16,3 +16,6 @@
 ## Notes
 - Theme is persisted in `localStorage` and toggles `dark` class on `<html>`.
 - `useLocalStorage` hook used for tasks persistence.
+## Image Link
+https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-Mulusew-D/blob/main/1.png?raw=true
+
