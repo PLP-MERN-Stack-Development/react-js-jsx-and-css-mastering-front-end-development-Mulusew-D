@@ -16,6 +16,9 @@
 ## Notes
 - Theme is persisted in `localStorage` and toggles `dark` class on `<html>`.
 - `useLocalStorage` hook used for tasks persistence.
+## Live Demo
+[![Netlify Status](https://img.shields.io/badge/Netlify-Deployed-brightgreen)](https://react-jsx-css-mastering-project.netlify.app/)
+
 ## Image of the Application
 ![image alt](https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-Mulusew-D/blob/ecc6845e88183c849aac26329f0f382e4fb3d23b/1.png)
 ![image alt](https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-Mulusew-D/blob/e30414b861dde6ebd3a69baf0820e4e26b51f3b5/2.png)
